@@ -113,9 +113,11 @@ Identified topics:
 ## Visualizations
 
 - **Sentiment Distribution Plot:**
+
   ![Sentiment Distribution](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/sentiment_distribution_plot.png)
   
 - **Word Clouds for Positive and Negative Reviews:**
+  
   ![Positive Reviews Word Cloud](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/positive_wordcloud.png)
   
   ![Negative Reviews Word Cloud](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/negative_wordcloud.png)
