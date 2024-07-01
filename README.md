@@ -1,5 +1,6 @@
 # Customer Sentiment and Insights through Starbucks Review Analysis
 ![](https://greenstarreviews.files.wordpress.com/2017/07/starbucks-stars-and-logo-2.png?w=648)
+
 ## Project Overview
 
 This project aims to leverage natural language processing (NLP) techniques to analyze Starbucks reviews, providing valuable insights into customer sentiment and preferences. 
@@ -113,8 +114,10 @@ Identified topics:
 
 - **Sentiment Distribution Plot:**
   ![Sentiment Distribution](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/sentiment_distribution_plot.png)
+  
 - **Word Clouds for Positive and Negative Reviews:**
   ![Positive Reviews Word Cloud](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/positive_wordcloud.png)
+  
   ![Negative Reviews Word Cloud](https://github.com/AmiraQadry/Starbucks-Review-Analysis/blob/main/negative_wordcloud.png)
 
 ## Deliverables
